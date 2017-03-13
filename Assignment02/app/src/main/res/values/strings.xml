@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment02</string>
+    <string name="btnCalculate">Calculate</string>
+    <string name="btnReset">Reset</string>
+    <string name="btnExit">Exit</string>
+    <string name="sum">Sum</string>
+    <string name="subtraction">Sub</string>
+    <string name="multiplication">Mult</string>
+    <string name="divide">Div</string>
+    <string name="tlTOusd">tl>USD</string>
+    <string name="tlTOeuro">tl>EURO</string>
+    <string name="usdTOtl">usd>TL</string>
+    <string name="euroTOtl">euro>TL</string>
+    <string name="convert">Translate</string>
+</resources>

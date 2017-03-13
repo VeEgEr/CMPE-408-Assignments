@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/tabColor"
+
+    >
+
+<Button
+    android:layout_marginTop="100dp"
+    android:layout_marginBottom="20dp"
+   android:layout_centerHorizontal="true"
+    android:id="@+id/buttonOne"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Change Tab1"
+    android:onClick="changeBackGround"/>
+
+    <Button
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/buttonOne"
+        android:id="@+id/buttonTwo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Change Tab2"
+        android:onClick="changeBackGround"/>
+    <Button
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/buttonTwo"
+        android:id="@+id/buttonThree"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Change Tab3"
+        android:onClick="changeBackGround"/>
+    <Button
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/buttonThree"
+        android:id="@+id/buttonFour"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Change Tab4"
+        android:onClick="changeBackGround"/>
+</RelativeLayout>

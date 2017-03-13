@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Assignment07</string>
+    <string name="btnA11">\\</string>
+    <string name="btnA12">\?</string>
+    <string name="btnA">a</string>
+    <string name="btnB">b</string>
+    <string name="btnC">c</string>
+    <string name="btnÇ">ç</string>
+    <string name="btnD">d</string>
+    <string name="btnE">e</string>
+    <string name="btnF">f</string>
+    <string name="btnG">g</string>
+    <string name="btnĞ">ğ</string>
+    <string name="btnH">h</string>
+    <string name="btnI">ı</string>
+    <string name="btnİ">i</string>
+    <string name="btnJ">j</string>
+    <string name="btnK">k</string>
+    <string name="btnL">l</string>
+    <string name="btnM">m</string>
+    <string name="btnN">n</string>
+    <string name="btnO">o</string>
+    <string name="btnÖ">ö</string>
+    <string name="btnP">p</string>
+    <string name="btnR">r</string>
+    <string name="btnS">s</string>
+    <string name="btnŞ">ş</string>
+    <string name="btnT">t</string>
+    <string name="btnU">u</string>
+    <string name="btnÜ">ü</string>
+    <string name="btnV">v</string>
+    <string name="btnY">y</string>
+    <string name="btnZ">z</string>
+    <string name="btnDot">.</string>
+</resources>
